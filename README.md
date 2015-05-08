@@ -43,3 +43,18 @@ obj.phone;
 table, th, td {
     border: 1px solid black;
 }
+
+********************************************************************
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Sandbox Code</h1>
+
+<p>Basic HTML Sandbox Code.</p>
+
+</body>
+</html>
+
+******************************************************************
+<a href="http://screencast.com/t/TU6IJUtmhAKy">Team 2: Meeting 2, Part 1</a>
